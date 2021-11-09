@@ -5,7 +5,7 @@
 # Author               : ☆ RAKA ☆ ™︻®╤───────═◍➤                                                            #
 # Nama Script     : Mous                                                       #
 # Github               : https://github.com/Bangsat-XD                          #
-# Twitter         : https://www.twittee.com/Bangsat_XD           #
+# Twitter         : https://www.twitter.com/Bangsat_XD           #
 # Python version : 2.7                                                                        #
 ################################################
 
