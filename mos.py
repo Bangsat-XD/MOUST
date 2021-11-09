@@ -58,7 +58,7 @@ pwx = []
 
 s = requests.Session()
 rgb = random.choice(['\x1b[0;91m', '\x1b[0;92m', '\x1b[0;93m', '\x1b[0;94m', '\x1b[0;95m', '\x1b[0;96m', '\x1b[0;97m', '\x1b[0m'])
-ua = s.get("https://raw.githubusercontent.com/Dumai-200/Server-Dmbf/main/ua.txt").text.strip()
+ua = s.get("https://raw.githubusercontent.com/Bangsat-XD/Server-MOUST/main/ua.txt").text.strip()
 ip = s.get('https://api-asutoolkit.cloudaccess.host/ip.php').text
 durasi = str(datetime.now().strftime('%d-%m-%Y'))
 	
@@ -78,7 +78,7 @@ bu = current.month
 ha = current.day
 op = bulan[nTemp]
 def __cekfol__():
-	ua = s.get("https://raw.githubusercontent.com/Dumai-200/Server-Dmbf/main/ua.txt").text.strip()
+	ua = s.get("https://raw.githubusercontent.com/Bangsat-XD/Server-MOUST/main/ua.txt").text.strip()
 	os.system("clear")
 	try:
 		token = open('/results')
@@ -87,7 +87,7 @@ def __cekfol__():
 		os.system("-mkdir /results")
 		bot_komen()
 def logo():
-	s.get("https://raw.githubusercontent.com/Dumai-200/Server-Dmbf/main/ua.txt").text.strip()
+	s.get("https://raw.githubusercontent.com/Bangsat-XD/Server-MOUST/main/ua.txt").text.strip()
 #	__cekfol__()
 #	os.system("mkdir /results")
 	try:
@@ -98,12 +98,12 @@ def logo():
 		os.system("echo 'Mozilla/5.0 (Linux; Android 5.1; OPPO A37f Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36' >> .ua")
 	os.system("clear")
 	print("""            
-  ___________          _____ _____________________
-  \_   _____/         /     \\______   \_   _____/
-   |    __)  ______  /  \ /  \|    |  _/|    __)  
-   |     \  /_____/ /    Y    \    |   \|     \   
-   \___  /          \____|__  /______  /\___  /   
-       \/                   \/       \/     \/ """)
+  ╲┊╱▔▔▔╱▏▔▔▔▔▔▔╲
+  ▕┊╲▔▔▔╱┊▏┈▂▂┈┈┈┈╲
+   ╱┈┏╮┊╭┓┈╲┈╲┈╲┈┈┈▕
+   ╱┈╰┛┊┗╯┈╲┈▕┈▕▂╱┈▕  
+  ╱╱╲┈┊┈╱╲╲┈▕┈┈┈┈┈╱   
+  ┊┊┊╲▆╱┊┊┊┊┊╲▂▂▂  """)
 def bot_komen():
     try:
         token = open('login.txt', 'r').read()
@@ -747,8 +747,8 @@ def cek_ingfo():
     print ' ['+m+'!'+c+']'+p+'Terahir DiUpdate : %s'%(uptd);time.sleep(0.03)
     print ' ['+m+'!'+c+']'+p+'------------------------------------------------'+b+'⟩⟩'
     time.sleep(3)
-    print(p+"Author : Yayan-XD")
-    print(p+"Compose Words : Mr.Risky")
+    print(p+"Author : Bangsat-XD")
+    print(p+"Compose Words : Mr.Raka")
     time.sleep(2)
     print("Sukses mengecek info akun !!")
     raw_input('\n  [ %sKEMBALI%s ] '%(O,N))
