@@ -1,12 +1,6 @@
 #!/usr/bin/python2
 # coding=utf-8
-# coded by angga kurniawan
-# fb.me/gaaaarzxd
-# instagram.com/gaaarzxd
-# open source, tidak di perjual belikan
-# RECORDER MR.RISKY
-# fb.me/llovexnxx
-# youtube Dumai-991
+# coded by ☆ RAKA ☆ ™︻®╤───────═◍➤
 # Jangan Lupa DiFollow Github Saya...
 q="\033[00m"
 h2="\033[40m"
