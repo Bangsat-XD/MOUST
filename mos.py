@@ -3,7 +3,7 @@
 # OPEN SOURCE KODE
 ################################################
 # Author               : ☆ RAKA ☆ ™︻®╤───────═◍➤                                                            #
-# Nama Script     : Mous                                                       #
+# Nama Script     : Mos                                                       #
 # Github               : https://github.com/Bangsat-XD                          #
 # Twitter         : https://www.twitter.com/Bangsat_XD           #
 # Python version : 2.7                                                                        #
@@ -102,10 +102,10 @@ def logo():
 	os.system("clear")
 	print("""
 \x1b[1;97m  ╲┊╱▔▔▔╱▏▔▔▔▔▔▔╲
-\x1b[1;97m  ▕┊╲▔▔▔╱┊▏┈▂▂┈┈┈┈╲ Author  : ☆RAKA☆™︻®╤─────═◍➤
-\x1b[1;97m  ╱┈┏╮┊╭┓┈╲┈╲┈╲┈┈┈▕ Github  : https://github.com/Bangsat-XD
-\x1b[1;97m  ╱┈╰┛┊┗╯┈╲┈▕┈▕▂╱┈▕ Teitter : Bangsat_XD
-\x1b[1;97m  ╱╱╲┈┊┈╱╲╲┈▕┈┈┈┈┈╱ Youtube : Bangsat-XD
+\x1b[1;97m  ▕┊╲▔▔▔╱┊▏┈▂▂┈┈┈┈╲
+\x1b[1;97m  ╱┈┏╮┊╭┓┈╲┈╲┈╲┈┈┈▕
+\x1b[1;97m  ╱┈╰┛┊┗╯┈╲┈▕┈▕▂╱┈▕
+\x1b[1;97m  ╱╱╲┈┊┈╱╲╲┈▕┈┈┈┈┈╱
 \x1b[1;97m  ┊┊┊╲▆╱┊┊┊┊┊╲▂▂▂      """)
     
 def tokenz():
