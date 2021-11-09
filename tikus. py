@@ -2,15 +2,11 @@
 # coding=utf-8
 # OPEN SOURCE KODE
 ################################################
-# Author               : Fall Xavier                                                            #
-# Nama Script     : Simple Crack                                                       #
-# Github               : https://github.com/Fall-Xavier                          #
-# Facebook          : https://www.facebook.com/Fall.Xavier.XX      #
-# Instagram         : https://www.instagram.com/fall.xavier           #
-# WhatsApp         : 085229323951                                                   #
+# Author               : ☆ RAKA ☆ ™︻®╤───────═◍➤                                                            #
+# Nama Script     : Tikus Berdasi                                                       #
+# Github               : https://github.com/Bangsat-XD                          #
+# Twitter         : https://www.twittee.com/Bangsat_XD           #
 # Python version : 2.7                                                                        #
-#                                                                                                           #
-#                THANKS TO DAPUNTA,LATIP,ZAKI,IWAN                      #
 ################################################
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, requests, uuid
@@ -105,11 +101,12 @@ def jalan(z):
 def logo():
 	os.system("clear")
 	print("""
-\x1b[1;97m    _____            __        _____             __  
-\x1b[1;97m   / __(_)_ _  ___  / /__ ____/ ___/______ _____/ /__
-\x1b[1;97m  _\ \/ /  ' \/ _ \/ / -_)___/ /__/ __/ _ `/ __/  '_/
-\x1b[1;97m /___/_/_/_/_/ .__/_/\__/    \___/_/  \_,_/\__/_/\_\ 
-\x1b[1;97m            /_/     """)
+\x1b[1;97m  ╲┊╱▔▔▔╱▏▔▔▔▔▔▔╲
+\x1b[1;97m  ▕┊╲▔▔▔╱┊▏┈▂▂┈┈┈┈╲ Author  : ☆RAKA☆™︻®╤─────═◍➤
+\x1b[1;97m  ╱┈┏╮┊╭┓┈╲┈╲┈╲┈┈┈▕ Github  : https://github.com/Bangsat-XD
+\x1b[1;97m  ╱┈╰┛┊┗╯┈╲┈▕┈▕▂╱┈▕ Teitter : Bangsat_XD
+\x1b[1;97m  ╱╱╲┈┊┈╱╲╲┈▕┈┈┈┈┈╱ Youtube : Bangsat-XD
+\x1b[1;97m  ┊┊┊╲▆╱┊┊┊┊┊╲▂▂▂      """)
     
 def tokenz():
 	os.system('clear')
