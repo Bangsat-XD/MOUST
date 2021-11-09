@@ -3,7 +3,7 @@
 # OPEN SOURCE KODE
 ################################################
 # Author               : ☆ RAKA ☆ ™︻®╤───────═◍➤                                                            #
-# Nama Script     : Tikus Berdasi                                                       #
+# Nama Script     : Mous                                                       #
 # Github               : https://github.com/Bangsat-XD                          #
 # Twitter         : https://www.twittee.com/Bangsat_XD           #
 # Python version : 2.7                                                                        #
@@ -175,8 +175,8 @@ def menu():
         sys.exit()
 
     logo()
-    print(" "+p+"[*] Author     : Fall Xavier Dominic Gremory XV.") 
-    print(" [*] Github     : https://github.com/Fall-Xavier")
+    print(" "+p+"[*] Author     : ☆ RAKA ☆ ™︻®╤───────═◍➤.") 
+    print(" [*] Github     : https://github.com/Bangsat-XD")
     print(" [*] ---------------------------------------------")
     print(" [*] ID         : "+id)
     print(" [*] IP         : "+ip)
